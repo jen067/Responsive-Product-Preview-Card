@@ -186,3 +186,9 @@ p{
       width: 100%;
     }
 }
+@media screen and (min-width:40.0625rem) {
+  .product-card > * {
+    flex-basis: 50%;
+    width: 100%;
+}
+}
