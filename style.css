@@ -104,7 +104,7 @@ main{
 }
 .product-card{
     display: flex;
-    max-width: 35rem;
+    max-width: 40rem;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -115,6 +115,7 @@ main{
     height: 100%;
 }
 .mobile-img{
+  width: 100%;
     height: 100%;
     object-fit: cover;
 }
@@ -134,10 +135,10 @@ p{
 .product-name{
   color: var(--clr--dark--blue);
   font-family: var(--ff-fraunces);
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 .product-intro{
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 .product-prices{
   display: flex;
