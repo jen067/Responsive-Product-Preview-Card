@@ -1,1 +1,1 @@
-## Frontend Mentor - BreadcrumbsResponsive-Product-Preview-Card
+## Frontend Mentor - Responsive-Product-Preview-Card
